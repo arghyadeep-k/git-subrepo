@@ -115,7 +115,7 @@ The best short answer is:
     git clone https://github.com/ingydotnet/git-subrepo /path/to/git-subrepo
     echo 'source /path/to/git-subrepo/.rc' >> ~/.bashrc
 
-The complete "Installation Instructions" can be found below.
+The complete L<"Installation Instructions"|https://github.com/ingydotnet/git-subrepo#installation-instructions> can be found below.
 
 Note: git-subrepo needs a git version (> 2.7) that supports worktree:s.
 
